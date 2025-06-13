@@ -16,7 +16,7 @@ It detects when an object is missing or when a new object appears in the frame.
 - Docker
 
 ## Folder Structure
-├── ai.py # Main application script ├── sort.py # SORT tracker ├── kalman_filter.py # Kalman filter used in SORT ├── yolov5/ # YOLOv5 model directory ├── input.mp4 # Input video ├── output.mp4 # Output video generated ├── Dockerfile # Docker container build file ├── README.md # report_Akshat_ML_intern.docx
+├── ai.py # Main application script ├── sort.py # SORT tracker ├── kalman_filter.py # Kalman filter used in SORT ├── yolov5/ # YOLOv5 model directory ├── input.mp4 # Input video ├── output.mp4 # Output video generated ├── Dockerfile # Docker container build file ├── Readme.md
 
 
 ## How to Run
