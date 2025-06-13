@@ -34,6 +34,6 @@ Tracked objects with unique IDs
 
 Detection of missing and new appearing objects.
 
-Author
+
 [Akshat Singh]
 
