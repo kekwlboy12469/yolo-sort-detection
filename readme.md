@@ -1,4 +1,4 @@
-# Real-Time Object Detection and Tracking - Internship Evaluation
+# Real-Time Object Detection and Tracking 
 
 ## Project Overview
 This project performs real-time detection and tracking of objects from a video using:
